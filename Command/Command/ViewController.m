@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     //local add
+//    2020.1.15 add
 }
 
 
