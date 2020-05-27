@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7EBA0F4D247E3AC3002ED46C /* A.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EBA0F4C247E3AC3002ED46C /* A.m */; };
 		7EF1724A23CDBF6B006AE5C1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF1724923CDBF6B006AE5C1 /* AppDelegate.m */; };
 		7EF1724D23CDBF6B006AE5C1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF1724C23CDBF6B006AE5C1 /* ViewController.m */; };
 		7EF1725023CDBF6B006AE5C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EF1724E23CDBF6B006AE5C1 /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7EBA0F4B247E3AC3002ED46C /* A.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = A.h; sourceTree = "<group>"; };
+		7EBA0F4C247E3AC3002ED46C /* A.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = A.m; sourceTree = "<group>"; };
 		7EF1724523CDBF6B006AE5C1 /* Command.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Command.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EF1724823CDBF6B006AE5C1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		7EF1724923CDBF6B006AE5C1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				7EF1725323CDBF6D006AE5C1 /* LaunchScreen.storyboard */,
 				7EF1725623CDBF6D006AE5C1 /* Info.plist */,
 				7EF1725723CDBF6D006AE5C1 /* main.m */,
+				7EBA0F4B247E3AC3002ED46C /* A.h */,
+				7EBA0F4C247E3AC3002ED46C /* A.m */,
 			);
 			path = Command;
 			sourceTree = "<group>";
@@ -265,6 +270,7 @@
 				7EF1724D23CDBF6B006AE5C1 /* ViewController.m in Sources */,
 				7EF1725823CDBF6D006AE5C1 /* main.m in Sources */,
 				7EF1724A23CDBF6B006AE5C1 /* AppDelegate.m in Sources */,
+				7EBA0F4D247E3AC3002ED46C /* A.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
